@@ -1,0 +1,5 @@
+include README.md
+recursive-include onlinepetition/petition/templates/petition/ *.html
+recursive-include onlinepetition/themes/standard/templates/ *.html
+recursive-include onlinepetition/themes/standard/static/ *.css *.js *.png
+recursive-include onlinepetition/locale/nb_NO/LC_MESSAGES/ *.po *.mo
